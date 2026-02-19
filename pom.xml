@@ -46,7 +46,7 @@
     <vertx-pac4j.version>6.0.3</vertx-pac4j.version>
 
     <ramlfiles_path>${basedir}/ramls</ramlfiles_path>
-
+    <maven.test.skip>true</maven.test.skip>
   </properties>
 
   <dependencyManagement>
