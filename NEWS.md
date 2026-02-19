@@ -1,3 +1,10 @@
+## 2.10.2 - 2026-02-19
+
+* [#202](https://github.com/folio-org/mod-login-saml/pull/202) Fix high and medium severity sonar code smells
+* [MODLOGSAML-216](https://folio-org.atlassian.net/browse/MODLOGSAML-216) nimbus-jose-jwt 9.37.4 fixing deeply nested JSON DoS CVE-2025-53864
+* [MODLOGSAML-215](https://folio-org.atlassian.net/browse/MODLOGSAML-215) RMB 35.4.1 Logging release
+* [MODLOGSAML-218](https://folio-org.atlassian.net/browse/MODLOGSAML-218) Vert.x 4.5.25 RMB 35.4.2 fixing CVE-2025-67735 Netty CRLF
+
 ## 2.10.1 - 2025-06-13
 
 * [MODLOGSAML-208](https://folio-org.atlassian.net/browse/MODLOGSAML-208) Bump maximumAuthenticationLifetime from 5 to 8 hours
