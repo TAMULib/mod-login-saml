@@ -42,7 +42,7 @@
     </generate_routing_context>
 
     <aspectj.version>1.9.22.1</aspectj.version>
-    <pac4j.version>5.7.7</pac4j.version>
+    <pac4j.version>5.7.9</pac4j.version>
     <vertx-pac4j.version>6.0.3</vertx-pac4j.version>
 
     <ramlfiles_path>${basedir}/ramls</ramlfiles_path>
@@ -186,7 +186,7 @@
     <dependency>
       <groupId>net.minidev</groupId>
       <artifactId>json-smart</artifactId>
-      <version>2.5.1</version>
+      <version>2.5.2</version>
     </dependency>
 
     <!-- Fixes Denial of Service (DoS) in com.fasterxml.woodstox:woodstox-core:
